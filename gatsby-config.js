@@ -6,6 +6,7 @@
 
 module.exports = {
   /* Your site config here */
+  pathPrefix: "/gatsby-pandas",
   siteMetadata: {
     title: `Title from siteMetadata`,
     description: `A simple description about pandas eating lots...`,
